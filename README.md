@@ -6,11 +6,11 @@
 <p>-</p>
 <p>-</p>
 
-<div align="center" style="position: absolute;
+<div align="center">
+  <img class="header" style="position: absolute;
 	left:50% top:50%;
 	transform: translate(-50%, -50%);
-	clip: rect(80px,498px,200px,0px);">
-  <img class="header" src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" alt="MasterHead">
+	clip: rect(80px,498px,200px,0px);" src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" alt="MasterHead">
 </div>
 
 <p>-</p>
