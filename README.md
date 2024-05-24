@@ -1,6 +1,27 @@
+<html>
+<head>
+<style>
+
+.header{
+	position: absolute;
+	left:50% top:50%;
+	transform: translate(-50%, -50%);
+	clip: rect(80px,498px,200px,0px);
+	
+}
+
+</style>
+</head>
+
+<p>-</p>
+<p>-</p>
+
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" alt="MasterHead">
+  <img class="header" src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" alt="MasterHead">
 </div>
+
+<p>-</p>
+<p>-</p>
 
 <h1 align="center">Hi 👋, I'm Luthando Sibene</h1>
 <h3 align="center">A passionate developer from South Africa. Mostly fascinated by backend.</h3>
@@ -9,13 +30,16 @@
 
 - 🌱 I’m currently learning **React, C# & JavaScript**
 
-- 💬 Ask me about **Java, C++, Scratch**
+- 💬 Ask me about **Java, C++, Python, Scratch**
+
+- Here's a link to some of my projects <a href="">My Projects</a>
 
 - 📫 How to reach me **duplesii6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luthando sibene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthando sibene" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luthando-sibene-64ab041ab/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luthando sibene" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +50,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsibene&show_icons=true&locale=en" alt="lsibene" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsibene&" alt="lsibene" /></p>
+<html>
