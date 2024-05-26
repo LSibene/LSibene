@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, C++, Python, Scratch**
 
-- Here's a link to some of my projects <a href="">My Projects</a>
+- Here's a link to some of my projects <a href="https://github.com/LSibene/My-Projects">My Projects</a>
 
 - 📫 How to reach me **duplesii6@gmail.com**
 
